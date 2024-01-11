@@ -23,7 +23,7 @@ parent [untitled](../untitled.md)
 | --- | --- | --- |  
 | inside table internal [link](../../second.md) |  |  |  
 |  | inside table external [link](https://google.com) |  |  
-|  | inside table second external *[link](google.com)* |  |  
+|  | inside table second external **[link](google.com)** |  |  
 
 
   
